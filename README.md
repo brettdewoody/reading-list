@@ -1,6 +1,9 @@
 # My Reading List
-A repo of articles and books I'm reading, with occasional thoughts.
+A repo of articles and books I've read, with occasional thoughts.
+
+View the [full list](readinglist.md).
 
 
-- https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks
-- https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired
+## About My Reading List
+
+If you would like to know more about my reading List, or make your own, take a look at [how it works](how-it-works.md).
