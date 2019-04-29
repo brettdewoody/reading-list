@@ -4,7 +4,7 @@ A list of recent articles and books I've read, with occasional thoughts.
 View the [full list](https://brettdewoody.github.io/reading-list/).
 
 
-## How it works
+## How it Works
 
 This reading list is a git-based reading list, designed to be easy to update, using a tool I use nearly daily - `git`.
 
