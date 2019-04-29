@@ -47,6 +47,7 @@ To add a new item to your reading list, use:
 git addItem -m "YOUR-URL"
 ```
 
+
 #### Add a note to an item
 Notes are added using the built-in `git notes`. To add a note, after the `git addItem` command, perform a:
 
@@ -59,6 +60,7 @@ Notes can also be added to past items by referencing the commit hash in the `git
 ```bash
   git notes add -m "YOUR NOTE" <COMMIT HASH>
 ```
+
 
 #### Build the reading list
 
