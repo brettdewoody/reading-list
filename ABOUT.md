@@ -75,16 +75,8 @@ git build
 to compile the reading list. This will update the `index.md` file with the latest changes.
 
 
-#### Deploy the reading List
-Deploy the reading list by pushing to master, with
-
-```bash
-  git push origin master
-```
-
-
 ## Making the Reading List Public
 
 If using Github, we can take advantage of [Github Pages](https://pages.github.com/) to display the reading list on a public site.
 
-To enable the public reading list, go to your repo on Github, then Settings, and scroll to 'Github Pages'. Select the `master` branch, and a theme if desired. Your reading list, the `index.md` file, will now be available at
+To enable the public reading list, go to your repo on Github, then Settings, and scroll to 'Github Pages'. Select the `master` branch, and a theme if desired. Your reading list, the `index.md` file, will now be available at https://[YOUR-GITHUB-USERNAME].github.io/[REPO-NAME]/
