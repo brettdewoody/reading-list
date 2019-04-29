@@ -33,10 +33,14 @@ First, _**don't clone this repo**_. Cloning this repo will merely clone my readi
 4. Add a `git alias` for building the reading list, with:
 
   ```bash
-  git config alias.build '!git --no-pager log --max-count=100 --grep="^http" --pretty=format:"%ad%n%s%n%N" > index.md'
+  git config alias.build '!git --no-pager log --max-count=100 --grep="^http" --pretty=format:"%ad  
+  [%s](%s)  
+  %N
+
+  " > index.md && git add index.md && git commit -m "Update reading list." && git push origin master'
   ```
 
-  This searches the `git log` for commit messages starting with 'http' and writes them to the `index.md` file.
+  This searches the `git log` for commit messages starting with 'http' and writes them to the `index.md` file, then adds, commits, and deploys the updated list.
 
 ## And You're Ready To Go
 
