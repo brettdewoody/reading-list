@@ -11,7 +11,7 @@ This reading list is a git-based reading list, designed to be easy to update, us
 Adding a new item to the reading list is as easy as performing a `git commit`, with a message containing a link to the item. For example:
 
 ```bash
-git commit --allow-empty -m "[URL]" -m "[COMMENTS]"
+git commit --allow-empty -m "[URL]"
 ```
 
 ## Create Your Own Reading List
