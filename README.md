@@ -6,7 +6,7 @@ View the [full list](https://brettdewoody.github.io/reading-list/).
 
 ## How it Works
 
-This reading list is a git-based reading list, designed to be easy to update, using a tool I use nearly daily - `git`.
+This reading list is a git-based reading list, designed to be easy to update, deploy, and host, using a tool I use nearly daily - `git`.
 
 Adding a new item to the reading list is as easy as performing a `git commit`, with a message containing a link to the item. For example:
 
@@ -16,7 +16,9 @@ git commit --allow-empty -m "[URL]"
 
 ## Create Your Own Reading List
 
-First, _**don't clone this repo**_. Cloning this repo will merely clone my reading list and not the underlying functionality. To create your own git-based reading list, follow these steps:
+First, _**DO NOT clone this repo**_. Cloning this repo will merely clone my reading list and not the underlying functionality. This reading list is created using a few simple `git` commands.
+
+To create your own git-based reading list, follow these steps:
 
 1. Create a new directory and init a repo:
 
