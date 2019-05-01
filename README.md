@@ -1,18 +1,21 @@
 # My Reading List
-A list of recent articles and books I've read, with occasional thoughts.
+This is my developer reading list - recent articles and books I've read, with occasional thoughts.
 
-View the [full list](https://brettdewoody.github.io/reading-list/).
+View my [full reading list](https://brettdewoody.github.io/reading-list/).
 
 
 ## How it Works
 
-This reading list is a git-based reading list, designed to be easy to update, deploy, and host, using a tool I use nearly daily - `git`.
+This reading list is git-based - designed to be easy to update, deploy, and host, using a tool I use nearly daily - `git`.
 
-Adding a new item to the reading list is as easy as performing a `git commit`, with a message containing a link to the item. For example:
+Adding an item, compiling the list, and deploying, are accomplished with three simple `git` commands:
 
-```bash
-git commit --allow-empty -m "[URL]"
-```
+* Add an item with `git commit`
+* Compile the list with `git log > index.md`
+* Deploy the list with `git push origin master`
+
+The result is a publicly available list of articles I've read and my thoughts.
+
 
 ## Create Your Own Reading List
 
@@ -28,7 +31,11 @@ To create your own git-based reading list, follow these steps:
   git init
   ```
 
-2. Create a new repo on Github (or similar) and connect your local with the remote.
+2. Create a new repo on Github (or similar) and add it as a remote to your local repo, with:
+
+  ```bash
+  git remote add origin https://github.com/user/repo.git
+  ```
 
 3. Add a `git alias` for adding a new item, with:
 
@@ -49,6 +56,9 @@ To create your own git-based reading list, follow these steps:
   ```
 
   This searches the `git log` for commit messages starting with 'http' and writes them to the `index.md` file, then adds, commits, and deploys the updated list.
+
+  This process of logging the commits to a file, committing, and pushing, could also be accomplished with a `git` hook, if you prefer that route.
+
 
 ## And You're Ready To Go
 
@@ -85,6 +95,6 @@ to compile the reading list. This will update the `index.md` file with the lates
 
 ## Making the Reading List Public
 
-If using Github, we can take advantage of [Github Pages](https://pages.github.com/) to display the reading list on a public site.
+If using Github, we can take advantage of [Github Pages](https://pages.github.com/) to make the reading list publicly available.
 
 To enable the public reading list, go to your repo on Github, then Settings, and scroll to 'Github Pages'. Select the `master` branch, and a theme if desired. Your reading list, the `index.md` file, will now be available at https://[YOUR-GITHUB-USERNAME].github.io/[REPO-NAME]/
