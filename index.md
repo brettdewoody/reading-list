@@ -1,3 +1,8 @@
+Wed May 1 16:46:06 2019 +0100  
+  [https://www.vox.com/recode/2019/5/1/18511575/productivity-slack-google-microsoft-facebook](https://www.vox.com/recode/2019/5/1/18511575/productivity-slack-google-microsoft-facebook)  
+  
+
+  
 Wed May 1 09:41:51 2019 +0100  
   [https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)  
   
