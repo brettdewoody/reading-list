@@ -8,13 +8,13 @@ View my [full reading list](https://brettdewoody.github.io/reading-list/).
 
 This reading list is git-based - designed to be easy to update, deploy, and host, using a tool I use nearly daily - `git`.
 
-Adding an item, compiling the list, and deploying, are accomplished with three simple `git` commands:
+Adding an item, compiling the list, and deploying, are accomplished with three simple `git` commands. Simplified, the commands are:
 
 * Add an item with `git commit`
 * Compile the list with `git log > index.md`
 * Deploy the list with `git push origin master`
 
-The result is a publicly available list of articles I've read and my thoughts.
+See below for more specifics on these commands and how to set them up. The result is a publicly available list of articles and associated thoughts.
 
 
 ## Create Your Own Reading List
@@ -52,13 +52,46 @@ To create your own git-based reading list, follow these steps:
   [%s](%s)  
   %N
 
-  " > index.md && git add index.md && git commit -m "Update reading list." && git push origin master'
+  " > index.md'
   ```
 
-  This searches the `git log` for commit messages starting with 'http' and writes them to the `index.md` file, then adds, commits, and deploys the updated list.
+  This alias searches the `git log` for commit messages starting with 'http' and writes them to the `index.md` file.
 
-  This process of logging the commits to a file, committing, and pushing, could also be accomplished with a `git` hook, if you prefer that route.
+5. Add a `git alias` for deploying the reading list, with:
 
+  ```bash
+  git config alias.deployList '!git add index.md && git commit -m "Update reading list" && git push origin master'
+  ```
+
+6. Add a `post-commit` hook to run `git build` and push the changes to the remote. First open the `post-commit` hook file using your preferred editor, something like:
+
+  ```bash
+  nano .git/hooks/post-commit
+  ```
+
+then add:
+
+  ```bash
+  #!/bin/bash
+  commit_message=$(git log -1 --pretty="format:%s")
+
+  if [[ "$commit_message" == http* ]]; then
+  echo "New Item Added"
+
+  git build
+  git deployList
+  fi
+
+  exit 0
+  ```
+
+  Save the file and exit.
+
+7. Make the `post-commit` hook executable, with:
+
+  ```bash
+  chmod +x .git/hooks/post-commit
+  ```
 
 ## And You're Ready To Go
 
@@ -69,18 +102,24 @@ To add a new item to your reading list, use:
 git addItem -m "YOUR-URL"
 ```
 
+The `post-commit` hook will detect the commit and automatically compile the reading list, and push the changes to the remote.
 
 #### Add a note to an item
 Notes are added using the built-in `git notes`. To add a note, after the `git addItem` command, perform a:
 
 ```bash
   git notes add -m "YOUR NOTE"
+  git build
+  git deployList
 ```
+
 
 Notes can also be added to past items by referencing the commit hash in the `git notes add` command, like:
 
 ```bash
   git notes add -m "YOUR NOTE" <COMMIT HASH>
+  git build
+  git deployList
 ```
 
 
