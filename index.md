@@ -1,5 +1,6 @@
 Thu May 2 10:17:42 2019 +0100  
 [https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)  
+Surprised by some of the tech, tbh
 
 
 
