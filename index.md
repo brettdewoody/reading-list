@@ -1,3 +1,8 @@
+Fri May 3 13:22:09 2019 +0100  
+[https://zeroequalsfalse.press/posts/it-is-ok-to-only-code-at-work/](https://zeroequalsfalse.press/posts/it-is-ok-to-only-code-at-work/)  
+
+
+
 Thu May 2 10:17:42 2019 +0100  
 [https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)  
 Surprised by some of the tech, tbh
