@@ -1,3 +1,8 @@
+Wed May 8 17:11:35 2019 +0100  
+[https://mgreiler.hashnode.dev/how-code-reviews-work-at-microsoft-cjv3ecbkc002564s1devpzggu](https://mgreiler.hashnode.dev/how-code-reviews-work-at-microsoft-cjv3ecbkc002564s1devpzggu)  
+
+
+
 Fri May 3 13:22:09 2019 +0100  
 [https://zeroequalsfalse.press/posts/it-is-ok-to-only-code-at-work/](https://zeroequalsfalse.press/posts/it-is-ok-to-only-code-at-work/)  
 Mixed feelings on this. On the one hand I totally agree, it's OK to not code outside work. On the other, as a member of a hiring team, I really like to see candidates who are active in the community, have side-projects, and show a passion for coding. That said, I also like to see a candidate with other interests, helping them meld with the team in other ways, and around other interests. That puts me somewhere in the middle - for me personally, and what I look for in candidates.
