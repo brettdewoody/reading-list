@@ -1,3 +1,8 @@
+Thu May 9 14:36:04 2019 +0100  
+[https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/](https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/)  
+
+
+
 Wed May 8 17:11:35 2019 +0100  
 [https://mgreiler.hashnode.dev/how-code-reviews-work-at-microsoft-cjv3ecbkc002564s1devpzggu](https://mgreiler.hashnode.dev/how-code-reviews-work-at-microsoft-cjv3ecbkc002564s1devpzggu)  
 
