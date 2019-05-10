@@ -1,3 +1,8 @@
+Fri May 10 10:49:15 2019 +0100  
+[https://www.fastcompany.com/90345918/hiring-the-best-doesnt-always-mean-hiring-the-right-people](https://www.fastcompany.com/90345918/hiring-the-best-doesnt-always-mean-hiring-the-right-people)  
+
+
+
 Fri May 10 10:40:35 2019 +0100  
 [https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki](https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki)  
 
