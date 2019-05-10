@@ -1,3 +1,8 @@
+Fri May 10 10:40:35 2019 +0100  
+[https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki](https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki)  
+
+
+
 Thu May 9 14:36:04 2019 +0100  
 [https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/](https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/)  
 
