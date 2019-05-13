@@ -1,3 +1,8 @@
+Mon May 13 16:12:04 2019 +0100  
+[https://www.youtube.com/watch?v=c0oy0vQKEZE](https://www.youtube.com/watch?v=c0oy0vQKEZE)  
+
+
+
 Fri May 10 10:49:15 2019 +0100  
 [https://www.fastcompany.com/90345918/hiring-the-best-doesnt-always-mean-hiring-the-right-people](https://www.fastcompany.com/90345918/hiring-the-best-doesnt-always-mean-hiring-the-right-people)  
 
