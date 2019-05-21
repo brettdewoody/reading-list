@@ -1,3 +1,8 @@
+Tue May 21 11:09:39 2019 +0100  
+[https://anaxi.com/blog/2019/02/20/how-to-make-other-developers-hate-to-work-with-you/](https://anaxi.com/blog/2019/02/20/how-to-make-other-developers-hate-to-work-with-you/)  
+
+
+
 Mon May 13 16:12:04 2019 +0100  
 [https://www.youtube.com/watch?v=c0oy0vQKEZE](https://www.youtube.com/watch?v=c0oy0vQKEZE)  
 
