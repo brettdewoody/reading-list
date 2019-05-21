@@ -1,3 +1,8 @@
+Tue May 21 11:38:30 2019 +0100  
+[https://addyosmani.com/blog/lazy-loading/](https://addyosmani.com/blog/lazy-loading/)  
+
+
+
 Tue May 21 11:09:39 2019 +0100  
 [https://anaxi.com/blog/2019/02/20/how-to-make-other-developers-hate-to-work-with-you/](https://anaxi.com/blog/2019/02/20/how-to-make-other-developers-hate-to-work-with-you/)  
 
