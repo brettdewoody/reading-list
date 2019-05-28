@@ -1,3 +1,8 @@
+Tue May 28 15:22:47 2019 +0100  
+[https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c](https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c)  
+
+
+
 Tue May 21 11:38:30 2019 +0100  
 [https://addyosmani.com/blog/lazy-loading/](https://addyosmani.com/blog/lazy-loading/)  
 
