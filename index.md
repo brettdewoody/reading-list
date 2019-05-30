@@ -1,3 +1,8 @@
+Thu May 30 09:53:42 2019 +0100  
+[https://www.fastcompany.com/90355919/im-a-former-elite-athlete-and-i-call-bs-on-techs-obsession-with-working-long-hours](https://www.fastcompany.com/90355919/im-a-former-elite-athlete-and-i-call-bs-on-techs-obsession-with-working-long-hours)  
+
+
+
 Tue May 28 15:22:47 2019 +0100  
 [https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c](https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c)  
 
