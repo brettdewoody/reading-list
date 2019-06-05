@@ -1,3 +1,8 @@
+Wed Jun 5 10:35:14 2019 +0100  
+[https://www.netlify.com/blog/2018/09/12/the-rise-of-immer-in-react/](https://www.netlify.com/blog/2018/09/12/the-rise-of-immer-in-react/)  
+
+
+
 Thu May 30 09:53:42 2019 +0100  
 [https://www.fastcompany.com/90355919/im-a-former-elite-athlete-and-i-call-bs-on-techs-obsession-with-working-long-hours](https://www.fastcompany.com/90355919/im-a-former-elite-athlete-and-i-call-bs-on-techs-obsession-with-working-long-hours)  
 
