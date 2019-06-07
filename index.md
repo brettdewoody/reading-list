@@ -1,3 +1,8 @@
+Fri Jun 7 17:40:40 2019 +0100  
+[https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b)  
+
+
+
 Wed Jun 5 10:35:14 2019 +0100  
 [https://www.netlify.com/blog/2018/09/12/the-rise-of-immer-in-react/](https://www.netlify.com/blog/2018/09/12/the-rise-of-immer-in-react/)  
 
