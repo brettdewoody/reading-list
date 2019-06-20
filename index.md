@@ -1,3 +1,8 @@
+Thu Jun 20 10:50:58 2019 +0100  
+[https://www.fastcompany.com/90111831/the-case-against-empathy](https://www.fastcompany.com/90111831/the-case-against-empathy)  
+
+
+
 Thu Jun 13 16:41:01 2019 +0100  
 [https://dzello.com/blog/2017/02/19/demystifying-enter-key-submission-for-react-forms/](https://dzello.com/blog/2017/02/19/demystifying-enter-key-submission-for-react-forms/)  
 
