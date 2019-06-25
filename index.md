@@ -1,3 +1,8 @@
+Tue Jun 25 20:04:06 2019 +0100  
+[https://www.fastcompany.com/40442242/hiring-managers-reveal-the-worst-answers-to-the-most-common-job-interview-questions](https://www.fastcompany.com/40442242/hiring-managers-reveal-the-worst-answers-to-the-most-common-job-interview-questions)  
+
+
+
 Tue Jun 25 11:10:45 2019 +0100  
 [https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)  
 
