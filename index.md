@@ -1,3 +1,8 @@
+Tue Jun 25 11:10:45 2019 +0100  
+[https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)  
+
+
+
 Thu Jun 20 10:50:58 2019 +0100  
 [https://www.fastcompany.com/90111831/the-case-against-empathy](https://www.fastcompany.com/90111831/the-case-against-empathy)  
 
