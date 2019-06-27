@@ -1,3 +1,8 @@
+Thu Jun 27 20:00:16 2019 +0100  
+[https://www.fastcompany.com/90368542/more-people-are-working-remotely-and-its-transforming-office-design](https://www.fastcompany.com/90368542/more-people-are-working-remotely-and-its-transforming-office-design)  
+
+
+
 Tue Jun 25 20:04:06 2019 +0100  
 [https://www.fastcompany.com/40442242/hiring-managers-reveal-the-worst-answers-to-the-most-common-job-interview-questions](https://www.fastcompany.com/40442242/hiring-managers-reveal-the-worst-answers-to-the-most-common-job-interview-questions)  
 
