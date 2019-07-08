@@ -1,3 +1,8 @@
+Mon Jul 8 12:09:00 2019 +0100  
+[https://www.fastcompany.com/90372742/i-hire-people-brighter-than-me-and-then-i-get-out-of-their-way-nine-of-lee-iacoccas-best-quotes-on-leadership](https://www.fastcompany.com/90372742/i-hire-people-brighter-than-me-and-then-i-get-out-of-their-way-nine-of-lee-iacoccas-best-quotes-on-leadership)  
+
+
+
 Thu Jun 27 20:00:16 2019 +0100  
 [https://www.fastcompany.com/90368542/more-people-are-working-remotely-and-its-transforming-office-design](https://www.fastcompany.com/90368542/more-people-are-working-remotely-and-its-transforming-office-design)  
 
