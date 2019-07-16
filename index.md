@@ -1,3 +1,8 @@
+Tue Jul 16 11:54:05 2019 +0100  
+[https://gomakethings.com/the-tao-of-web-development/](https://gomakethings.com/the-tao-of-web-development/)  
+
+
+
 Mon Jul 8 12:09:00 2019 +0100  
 [https://www.fastcompany.com/90372742/i-hire-people-brighter-than-me-and-then-i-get-out-of-their-way-nine-of-lee-iacoccas-best-quotes-on-leadership](https://www.fastcompany.com/90372742/i-hire-people-brighter-than-me-and-then-i-get-out-of-their-way-nine-of-lee-iacoccas-best-quotes-on-leadership)  
 
