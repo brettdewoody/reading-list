@@ -1,3 +1,8 @@
+Fri Jul 26 09:36:20 2019 +0100  
+[https://frontendmasters.com/books/front-end-handbook/2019/](https://frontendmasters.com/books/front-end-handbook/2019/)  
+
+
+
 Tue Jul 16 11:54:05 2019 +0100  
 [https://gomakethings.com/the-tao-of-web-development/](https://gomakethings.com/the-tao-of-web-development/)  
 
