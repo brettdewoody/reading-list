@@ -1,3 +1,8 @@
+Mon Jul 29 12:33:46 2019 +0100  
+[https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework)  
+
+
+
 Mon Jul 29 12:30:58 2019 +0100  
 [https://qz.com/work/1671163/atlassians-new-performance-review-categories-weed-out-brilliant-jerks](https://qz.com/work/1671163/atlassians-new-performance-review-categories-weed-out-brilliant-jerks)  
 
