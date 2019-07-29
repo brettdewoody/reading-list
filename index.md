@@ -1,3 +1,8 @@
+Mon Jul 29 12:30:58 2019 +0100  
+[https://qz.com/work/1671163/atlassians-new-performance-review-categories-weed-out-brilliant-jerks](https://qz.com/work/1671163/atlassians-new-performance-review-categories-weed-out-brilliant-jerks)  
+
+
+
 Fri Jul 26 09:36:20 2019 +0100  
 [https://frontendmasters.com/books/front-end-handbook/2019/](https://frontendmasters.com/books/front-end-handbook/2019/)  
 
