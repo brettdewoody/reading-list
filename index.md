@@ -1,3 +1,8 @@
+Fri Aug 9 15:58:54 2019 +0100  
+[https://css-tricks.com/the-great-divide/](https://css-tricks.com/the-great-divide/)  
+
+
+
 Tue Aug 6 19:23:31 2019 +0100  
 [https://www.fastcompany.com/90385375/dominos-is-locked-in-a-legal-battle-over-the-future-of-web-design](https://www.fastcompany.com/90385375/dominos-is-locked-in-a-legal-battle-over-the-future-of-web-design)  
 
