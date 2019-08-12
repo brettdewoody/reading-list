@@ -1,3 +1,8 @@
+Mon Aug 12 10:56:34 2019 +0100  
+[https://slack.engineering/technical-leadership-getting-started-e5161b1bf85c](https://slack.engineering/technical-leadership-getting-started-e5161b1bf85c)  
+
+
+
 Fri Aug 9 15:58:54 2019 +0100  
 [https://css-tricks.com/the-great-divide/](https://css-tricks.com/the-great-divide/)  
 
