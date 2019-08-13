@@ -1,3 +1,8 @@
+Tue Aug 13 15:35:18 2019 +0100  
+[https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019](https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019)  
+
+
+
 Mon Aug 12 10:56:34 2019 +0100  
 [https://slack.engineering/technical-leadership-getting-started-e5161b1bf85c](https://slack.engineering/technical-leadership-getting-started-e5161b1bf85c)  
 
