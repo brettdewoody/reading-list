@@ -1,3 +1,8 @@
+Thu Aug 15 10:18:35 2019 +0100  
+[https://css-tricks.com/the-differing-perspectives-on-css-in-js](https://css-tricks.com/the-differing-perspectives-on-css-in-js)  
+
+
+
 Tue Aug 13 15:35:18 2019 +0100  
 [https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019](https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019)  
 
