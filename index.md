@@ -1,3 +1,8 @@
+Wed Oct 2 18:14:15 2019 +0100  
+[https://bugs.webkit.org/show_bug.cgi?id=202055](https://bugs.webkit.org/show_bug.cgi?id=202055)  
+
+
+
 Thu Aug 15 10:18:35 2019 +0100  
 [https://css-tricks.com/the-differing-perspectives-on-css-in-js](https://css-tricks.com/the-differing-perspectives-on-css-in-js)  
 
