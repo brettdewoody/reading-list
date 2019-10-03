@@ -1,3 +1,8 @@
+Thu Oct 3 10:25:35 2019 +0100  
+[https://qz.com/work/1486863/boasting-about-how-many-hours-you-work-is-a-sign-of-failure](https://qz.com/work/1486863/boasting-about-how-many-hours-you-work-is-a-sign-of-failure)  
+
+
+
 Wed Oct 2 18:14:15 2019 +0100  
 [https://bugs.webkit.org/show_bug.cgi?id=202055](https://bugs.webkit.org/show_bug.cgi?id=202055)  
 
