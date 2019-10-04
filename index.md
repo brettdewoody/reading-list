@@ -1,3 +1,8 @@
+Fri Oct 4 16:17:41 2019 +0100  
+[https://webaim.org/projects/screenreadersurvey8](https://webaim.org/projects/screenreadersurvey8)  
+
+
+
 Fri Oct 4 15:29:23 2019 +0100  
 [https://css-tricks.com/why-progressive-web-apps-are-the-future-of-mobile-web](https://css-tricks.com/why-progressive-web-apps-are-the-future-of-mobile-web)  
 
