@@ -1,3 +1,8 @@
+Fri Oct 4 15:29:23 2019 +0100  
+[https://css-tricks.com/why-progressive-web-apps-are-the-future-of-mobile-web](https://css-tricks.com/why-progressive-web-apps-are-the-future-of-mobile-web)  
+
+
+
 Thu Oct 3 10:25:35 2019 +0100  
 [https://qz.com/work/1486863/boasting-about-how-many-hours-you-work-is-a-sign-of-failure](https://qz.com/work/1486863/boasting-about-how-many-hours-you-work-is-a-sign-of-failure)  
 
