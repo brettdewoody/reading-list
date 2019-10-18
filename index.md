@@ -1,3 +1,8 @@
+Fri Oct 18 09:46:09 2019 +0100  
+[https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise](https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise)  
+
+
+
 Fri Oct 4 16:17:41 2019 +0100  
 [https://webaim.org/projects/screenreadersurvey8](https://webaim.org/projects/screenreadersurvey8)  
 
