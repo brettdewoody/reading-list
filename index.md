@@ -1,3 +1,8 @@
+Fri Oct 25 09:43:28 2019 +0100  
+[http://danmall.me/articles/hot-potato-process](http://danmall.me/articles/hot-potato-process)  
+
+
+
 Fri Oct 18 09:46:09 2019 +0100  
 [https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise](https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise)  
 
