@@ -1,3 +1,8 @@
+Tue Oct 29 20:21:07 2019 +0000  
+[https://www.inc.com/michael-schneider/google-research-shows-that-best-bosses-always-do-these-2-things.html](https://www.inc.com/michael-schneider/google-research-shows-that-best-bosses-always-do-these-2-things.html)  
+
+
+
 Fri Oct 25 09:43:28 2019 +0100  
 [http://danmall.me/articles/hot-potato-process](http://danmall.me/articles/hot-potato-process)  
 
