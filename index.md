@@ -1,3 +1,8 @@
+Wed Oct 30 14:13:33 2019 +0000  
+[https://www.stackoverflowbusiness.com/blog/the-idea-of-the-minimum-viable-candidate](https://www.stackoverflowbusiness.com/blog/the-idea-of-the-minimum-viable-candidate)  
+
+
+
 Tue Oct 29 20:21:07 2019 +0000  
 [https://www.inc.com/michael-schneider/google-research-shows-that-best-bosses-always-do-these-2-things.html](https://www.inc.com/michael-schneider/google-research-shows-that-best-bosses-always-do-these-2-things.html)  
 
