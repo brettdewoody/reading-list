@@ -1,3 +1,8 @@
+Wed Oct 30 16:41:29 2019 +0000  
+[https://magazine.adler.co.uk/promotional-idea/we-asked-100-people-to-draw-famous-logos-from-memory-here-is-what-they-drew/](https://magazine.adler.co.uk/promotional-idea/we-asked-100-people-to-draw-famous-logos-from-memory-here-is-what-they-drew/)  
+
+
+
 Wed Oct 30 14:13:33 2019 +0000  
 [https://www.stackoverflowbusiness.com/blog/the-idea-of-the-minimum-viable-candidate](https://www.stackoverflowbusiness.com/blog/the-idea-of-the-minimum-viable-candidate)  
 
