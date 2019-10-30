@@ -8,11 +8,13 @@ View my [full reading list](https://brettdewoody.github.io/reading-list/).
 
 This reading list is git-based - designed to be easy to update, deploy, and host, using a tool I use nearly daily - `git`.
 
-Adding an item, compiling the list, and deploying, are accomplished with three simple `git` commands. Simplified, the commands are:
+Adding an item, compiling the list, and deploying, are accomplished with a single command:
 
-* Add an item with `git commit`
-* Compile the list with `git log > index.md`
-* Deploy the list with `git push origin master`
+```
+git addItem -m "[URL]"
+```
+
+This single command adds a commit containing a message with the URL I want to share, then uses a combo of `git` `post-commit` hooks and other commands to build and deploy the reading list:
 
 See below for more specifics on these commands and how to set them up. The result is a publicly available list of articles and associated thoughts.
 
@@ -102,7 +104,7 @@ To add a new item to your reading list, use:
 git addItem -m "YOUR-URL"
 ```
 
-The `post-commit` hook will detect the commit and automatically compile the reading list, and push the changes to the remote.
+The `post-commit` hook will detect the commit, compile the reading list, and push the changes to the remote repo.
 
 #### Add a note to an item
 Notes are added using the built-in `git notes`. To add a note, after the `git addItem` command, perform a:
