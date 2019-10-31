@@ -1,5 +1,6 @@
 Thu Oct 31 11:50:49 2019 +0000  
 [https://blog.axlight.com/posts/four-patterns-for-global-state-with-react-hooks-context-or-redux/](https://blog.axlight.com/posts/four-patterns-for-global-state-with-react-hooks-context-or-redux/)  
+A debate I've been struggling with recently on apps. Do I start with Context, and add Redux when necessary? Add Redux from the start? Or do I rethink global state and try to keep it simple, eliminating the need for Redux?
 
 
 
