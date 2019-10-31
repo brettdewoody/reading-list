@@ -1,3 +1,8 @@
+Thu Oct 31 11:50:49 2019 +0000  
+[https://blog.axlight.com/posts/four-patterns-for-global-state-with-react-hooks-context-or-redux/](https://blog.axlight.com/posts/four-patterns-for-global-state-with-react-hooks-context-or-redux/)  
+
+
+
 Wed Oct 30 16:41:29 2019 +0000  
 [https://magazine.adler.co.uk/promotional-idea/we-asked-100-people-to-draw-famous-logos-from-memory-here-is-what-they-drew/](https://magazine.adler.co.uk/promotional-idea/we-asked-100-people-to-draw-famous-logos-from-memory-here-is-what-they-drew/)  
 
