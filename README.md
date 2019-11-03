@@ -50,7 +50,7 @@ To create your own git-based reading list, follow these steps:
 4. Add a `git alias` for building the reading list, with:
 
   ```bash
-  git config alias.build '!git --no-pager log --max-count=100 --grep="^http" --pretty=format:"%ad  
+  git config alias.build '!git --no-pager log --max-count=100 --grep="^http" --date=local --pretty=format:"%ad  
   [%s](%s)  
   %N
 
@@ -107,16 +107,7 @@ git addItem -m "YOUR-URL"
 The `post-commit` hook will detect the commit, compile the reading list, and push the changes to the remote repo.
 
 #### Add a note to an item
-Notes are added using the built-in `git notes`. To add a note, after the `git addItem` command, perform a:
-
-```bash
-  git notes add -m "YOUR NOTE"
-  git build
-  git deployList
-```
-
-
-Notes can also be added to past items by referencing the commit hash in the `git notes add` command, like:
+Notes are added using the built-in `git notes`. To add a note, after the `git addItem` command, lookup the commit hash of the `addItem` commit, and add a note with the following:
 
 ```bash
   git notes add -m "YOUR NOTE" <COMMIT HASH>
