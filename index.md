@@ -1,3 +1,8 @@
+Mon Nov 4 12:12:41 2019  
+  [https://www.simplethread.com/cant-replace-redux-with-hooks/](https://www.simplethread.com/cant-replace-redux-with-hooks/)  
+  
+
+  
 Sun Nov 3 23:08:08 2019  
   [https://medium.com/dailyjs/building-and-composing-factory-functions-50fe90141374](https://medium.com/dailyjs/building-and-composing-factory-functions-50fe90141374)  
   
