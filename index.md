@@ -1,3 +1,8 @@
+Tue Nov 5 00:44:52 2019  
+  [https://edition.cnn.com/2019/11/04/tech/microsoft-japan-workweek-productivity/index.html](https://edition.cnn.com/2019/11/04/tech/microsoft-japan-workweek-productivity/index.html)  
+  
+
+  
 Mon Nov 4 12:12:41 2019  
   [https://www.simplethread.com/cant-replace-redux-with-hooks/](https://www.simplethread.com/cant-replace-redux-with-hooks/)  
   
