@@ -1,3 +1,8 @@
+Thu Nov 7 13:44:52 2019  
+  [https://thenextweb.com/apps/2019/11/06/firefox-will-automatically-block-website-notifications-in-2020](https://thenextweb.com/apps/2019/11/06/firefox-will-automatically-block-website-notifications-in-2020)  
+  
+
+  
 Tue Nov 5 00:44:52 2019  
   [https://edition.cnn.com/2019/11/04/tech/microsoft-japan-workweek-productivity/index.html](https://edition.cnn.com/2019/11/04/tech/microsoft-japan-workweek-productivity/index.html)  
   
