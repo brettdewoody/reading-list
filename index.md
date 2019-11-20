@@ -1,3 +1,8 @@
+Wed Nov 20 16:17:33 2019  
+  [https://medium.com/better-programming/creating-a-web-performance-culture-inside-your-team-f00c0d79765f](https://medium.com/better-programming/creating-a-web-performance-culture-inside-your-team-f00c0d79765f)  
+  
+
+  
 Mon Nov 11 14:21:39 2019  
   [https://www.inc.com/heather-r-huhman/new-hires-are-begging-you-to-stop-these-onboarding-trends.html](https://www.inc.com/heather-r-huhman/new-hires-are-begging-you-to-stop-these-onboarding-trends.html)  
   
