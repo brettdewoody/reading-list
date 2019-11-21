@@ -1,3 +1,8 @@
+Thu Nov 21 09:41:36 2019  
+  [https://pomb.us/build-your-own-react/](https://pomb.us/build-your-own-react/)  
+  
+
+  
 Wed Nov 20 16:17:33 2019  
   [https://medium.com/better-programming/creating-a-web-performance-culture-inside-your-team-f00c0d79765f](https://medium.com/better-programming/creating-a-web-performance-culture-inside-your-team-f00c0d79765f)  
   
