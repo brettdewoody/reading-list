@@ -1,3 +1,8 @@
+Fri Nov 22 15:27:47 2019  
+  [https://increment.com/teams/a-guide-to-distributed-teams/](https://increment.com/teams/a-guide-to-distributed-teams/)  
+  
+
+  
 Thu Nov 21 09:41:36 2019  
   [https://pomb.us/build-your-own-react/](https://pomb.us/build-your-own-react/)  
   
