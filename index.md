@@ -1,3 +1,8 @@
+Sun Nov 24 15:52:54 2019  
+  [https://www.fastcompany.com/90362812/how-to-get-the-ultimate-home-office-according-to-4-ceos-who-work-remotely](https://www.fastcompany.com/90362812/how-to-get-the-ultimate-home-office-according-to-4-ceos-who-work-remotely)  
+  
+
+  
 Fri Nov 22 15:27:47 2019  
   [https://increment.com/teams/a-guide-to-distributed-teams/](https://increment.com/teams/a-guide-to-distributed-teams/)  
   
