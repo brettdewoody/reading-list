@@ -1,3 +1,8 @@
+Thu Dec 5 13:58:20 2019  
+  [https://www.fastcompany.com/90437174/an-early-instagram-employee-offers-advice-on-building-meaningful-communities](https://www.fastcompany.com/90437174/an-early-instagram-employee-offers-advice-on-building-meaningful-communities)  
+  
+
+  
 Sun Nov 24 15:52:54 2019  
   [https://www.fastcompany.com/90362812/how-to-get-the-ultimate-home-office-according-to-4-ceos-who-work-remotely](https://www.fastcompany.com/90362812/how-to-get-the-ultimate-home-office-according-to-4-ceos-who-work-remotely)  
   
