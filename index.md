@@ -1,3 +1,8 @@
+Sat Dec 7 15:56:37 2019  
+  [https://www.inc.com/jeff-haden/heres-how-to-tell-within-5-minutes-if-someone-isnt-as-smart-as-they-think.html](https://www.inc.com/jeff-haden/heres-how-to-tell-within-5-minutes-if-someone-isnt-as-smart-as-they-think.html)  
+  
+
+  
 Fri Dec 6 18:11:34 2019  
   [https://www.stackoverflowbusiness.com/blog/get-your-artifacts-right-eight-examples-of-developer-driven-employer-branding-content](https://www.stackoverflowbusiness.com/blog/get-your-artifacts-right-eight-examples-of-developer-driven-employer-branding-content)  
   
