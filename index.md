@@ -1,3 +1,8 @@
+Mon Dec 9 09:37:37 2019  
+  [https://www.glassdoor.co.uk/Overview/Working-at-Theorem-EI_IE960344.11,18.htm](https://www.glassdoor.co.uk/Overview/Working-at-Theorem-EI_IE960344.11,18.htm)  
+  
+
+  
 Sat Dec 7 15:56:37 2019  
   [https://www.inc.com/jeff-haden/heres-how-to-tell-within-5-minutes-if-someone-isnt-as-smart-as-they-think.html](https://www.inc.com/jeff-haden/heres-how-to-tell-within-5-minutes-if-someone-isnt-as-smart-as-they-think.html)  
   
