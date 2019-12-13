@@ -1,3 +1,8 @@
+Fri Dec 13 17:11:20 2019  
+  [https://www.inc.com/rhett-power/high-emotional-intelligence-is-essential-in-todays-workplace.html](https://www.inc.com/rhett-power/high-emotional-intelligence-is-essential-in-todays-workplace.html)  
+  
+
+  
 Mon Dec 9 09:37:37 2019  
   [https://www.glassdoor.co.uk/Overview/Working-at-Theorem-EI_IE960344.11,18.htm](https://www.glassdoor.co.uk/Overview/Working-at-Theorem-EI_IE960344.11,18.htm)  
   
