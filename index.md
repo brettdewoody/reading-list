@@ -1,3 +1,8 @@
+Sun Dec 15 16:33:38 2019  
+  [https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-someone-is-a-great-leader.html](https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-someone-is-a-great-leader.html)  
+  
+
+  
 Fri Dec 13 17:11:20 2019  
   [https://www.inc.com/rhett-power/high-emotional-intelligence-is-essential-in-todays-workplace.html](https://www.inc.com/rhett-power/high-emotional-intelligence-is-essential-in-todays-workplace.html)  
   
