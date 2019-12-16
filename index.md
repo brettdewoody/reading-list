@@ -1,3 +1,8 @@
+Mon Dec 16 09:21:43 2019  
+  [https://www.inc.com/minda-zetlin/google-resume-mistakes-laszlo-bock-job-hiring-employment.html](https://www.inc.com/minda-zetlin/google-resume-mistakes-laszlo-bock-job-hiring-employment.html)  
+  
+
+  
 Sun Dec 15 16:33:38 2019  
   [https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-someone-is-a-great-leader.html](https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-someone-is-a-great-leader.html)  
   
