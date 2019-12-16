@@ -1,3 +1,8 @@
+Mon Dec 16 16:03:13 2019  
+  [https://www.stackoverflowbusiness.com/blog/making-remote-work-at-stack-overflow](https://www.stackoverflowbusiness.com/blog/making-remote-work-at-stack-overflow)  
+  
+
+  
 Mon Dec 16 09:21:43 2019  
   [https://www.inc.com/minda-zetlin/google-resume-mistakes-laszlo-bock-job-hiring-employment.html](https://www.inc.com/minda-zetlin/google-resume-mistakes-laszlo-bock-job-hiring-employment.html)  
   
