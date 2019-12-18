@@ -1,3 +1,8 @@
+Wed Dec 18 15:19:24 2019  
+  [https://aneventapart.com/news/post/slow-design-for-an-anxious-world](https://aneventapart.com/news/post/slow-design-for-an-anxious-world)  
+  
+
+  
 Wed Dec 18 12:21:03 2019  
   [https://stackoverflow.blog/2019/12/16/this-this-whiteboard-interviews](https://stackoverflow.blog/2019/12/16/this-this-whiteboard-interviews)  
   
