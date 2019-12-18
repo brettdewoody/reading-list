@@ -1,3 +1,8 @@
+Wed Dec 18 12:21:03 2019  
+  [https://stackoverflow.blog/2019/12/16/this-this-whiteboard-interviews](https://stackoverflow.blog/2019/12/16/this-this-whiteboard-interviews)  
+  
+
+  
 Mon Dec 16 16:03:13 2019  
   [https://www.stackoverflowbusiness.com/blog/making-remote-work-at-stack-overflow](https://www.stackoverflowbusiness.com/blog/making-remote-work-at-stack-overflow)  
   
