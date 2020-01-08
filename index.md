@@ -1,3 +1,8 @@
+Wed Jan 8 10:43:40 2020  
+  [https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)  
+  
+
+  
 Wed Dec 18 15:19:24 2019  
   [https://aneventapart.com/news/post/slow-design-for-an-anxious-world](https://aneventapart.com/news/post/slow-design-for-an-anxious-world)  
   
