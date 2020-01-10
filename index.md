@@ -1,3 +1,8 @@
+Fri Jan 10 13:39:37 2020  
+  [https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)  
+  
+
+  
 Wed Jan 8 10:43:40 2020  
   [https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)  
   
