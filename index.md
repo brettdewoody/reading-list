@@ -1,3 +1,8 @@
+Mon Jan 13 22:40:00 2020  
+  [https://kentcdodds.com/blog/how-to-use-react-context-effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)  
+  
+
+  
 Mon Jan 13 12:24:15 2020  
   [https://dev.to/bitpunchz/react-hooks-in-a-nutshell-4llg](https://dev.to/bitpunchz/react-hooks-in-a-nutshell-4llg)  
   
