@@ -1,3 +1,8 @@
+Fri Jan 17 08:40:40 2020  
+  [https://kentcdodds.com/blog/should-i-usestate-or-usereducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)  
+  
+
+  
 Tue Jan 14 16:50:57 2020  
   [https://kentcdodds.com/blog/how-to-optimize-your-context-value](https://kentcdodds.com/blog/how-to-optimize-your-context-value)  
   
