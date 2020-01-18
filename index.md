@@ -1,3 +1,8 @@
+Sat Jan 18 00:28:57 2020  
+  [https://medium.com/@rossbulat/how-to-memoize-in-react-3d20cbcd2b6e](https://medium.com/@rossbulat/how-to-memoize-in-react-3d20cbcd2b6e)  
+  
+
+  
 Sat Jan 18 00:25:37 2020  
   [https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.htm](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.htm)  
   
