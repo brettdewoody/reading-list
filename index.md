@@ -1,3 +1,8 @@
+Wed Jan 22 22:59:51 2020  
+  [https://tylermcginnis.com/react-render-props/](https://tylermcginnis.com/react-render-props/)  
+  
+
+  
 Sat Jan 18 00:28:57 2020  
   [https://medium.com/@rossbulat/how-to-memoize-in-react-3d20cbcd2b6e](https://medium.com/@rossbulat/how-to-memoize-in-react-3d20cbcd2b6e)  
   
