@@ -1,3 +1,8 @@
+Mon Feb 10 16:24:42 2020  
+  [https://www.fastcompany.com/90461922/4-ways-you-can-get-more-comfortable-taking-criticism](https://www.fastcompany.com/90461922/4-ways-you-can-get-more-comfortable-taking-criticism)  
+  
+
+  
 Wed Jan 29 23:41:28 2020  
   [https://engineering.fb.com/open-source/open-source-2019](https://engineering.fb.com/open-source/open-source-2019)  
   
