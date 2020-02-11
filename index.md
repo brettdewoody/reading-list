@@ -1,3 +1,8 @@
+Tue Feb 11 14:58:15 2020  
+  [https://lp.buffer.com/state-of-remote-work-2020](https://lp.buffer.com/state-of-remote-work-2020)  
+  
+
+  
 Mon Feb 10 16:24:42 2020  
   [https://www.fastcompany.com/90461922/4-ways-you-can-get-more-comfortable-taking-criticism](https://www.fastcompany.com/90461922/4-ways-you-can-get-more-comfortable-taking-criticism)  
   
