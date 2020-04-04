@@ -1,3 +1,8 @@
+Sat Apr 4 11:36:04 2020  
+  [https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-advocate/](https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-advocate/)  
+  
+
+  
 Thu Mar 26 23:06:11 2020  
   [https://coronavirus.jhu.edu/map.html](https://coronavirus.jhu.edu/map.html)  
   
