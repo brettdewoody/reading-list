@@ -1,3 +1,8 @@
+Wed May 27 11:33:55 2020  
+  [https://medium.com/@cosmocatalano/on-strava-or-the-things-you-love-should-love-you-back-b6928d6e8b5b](https://medium.com/@cosmocatalano/on-strava-or-the-things-you-love-should-love-you-back-b6928d6e8b5b)  
+  
+
+  
 Fri Apr 17 17:57:42 2020  
   [https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/](https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/)  
   
