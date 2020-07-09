@@ -1,3 +1,8 @@
+Thu Jul 9 12:03:29 2020  
+  [https://medium.com/@nihon_rafy/leading-a-community-during-covid-pandemic-8e3e0cc48167](https://medium.com/@nihon_rafy/leading-a-community-during-covid-pandemic-8e3e0cc48167)  
+  
+
+  
 Mon Jul 6 19:57:26 2020  
   [https://engineering.freeagent.com/2020/06/26/switching-to-feature-testing-with-headless-chrome/](https://engineering.freeagent.com/2020/06/26/switching-to-feature-testing-with-headless-chrome/)  
   
