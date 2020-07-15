@@ -1,3 +1,8 @@
+Wed Jul 15 22:15:12 2020  
+  [https://about.fb.com/news/2020/07/facebook-2020-diversity-report/](https://about.fb.com/news/2020/07/facebook-2020-diversity-report/)  
+  
+
+  
 Thu Jul 9 12:03:29 2020  
   [https://medium.com/@nihon_rafy/leading-a-community-during-covid-pandemic-8e3e0cc48167](https://medium.com/@nihon_rafy/leading-a-community-during-covid-pandemic-8e3e0cc48167)  
   A great example of a community becoming more engaged and interactive as a result of the pandemic and moving on-line.
