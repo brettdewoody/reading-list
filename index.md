@@ -1,3 +1,8 @@
+Wed Jul 22 13:23:55 2020  
+  [https://distributed.blog/2020/06/19/morra-aarons-mele-introversion-anxiety/](https://distributed.blog/2020/06/19/morra-aarons-mele-introversion-anxiety/)  
+  
+
+  
 Wed Jul 15 22:15:12 2020  
   [https://about.fb.com/news/2020/07/facebook-2020-diversity-report/](https://about.fb.com/news/2020/07/facebook-2020-diversity-report/)  
   
