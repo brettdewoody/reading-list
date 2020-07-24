@@ -1,3 +1,8 @@
+Fri Jul 24 09:39:50 2020  
+  [https://www.facebook.com/careers/life/behind-the-scenes-with-an-engineering-manager](https://www.facebook.com/careers/life/behind-the-scenes-with-an-engineering-manager)  
+  
+
+  
 Wed Jul 22 13:23:55 2020  
   [https://distributed.blog/2020/06/19/morra-aarons-mele-introversion-anxiety/](https://distributed.blog/2020/06/19/morra-aarons-mele-introversion-anxiety/)  
   
