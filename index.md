@@ -1,3 +1,8 @@
+Tue Aug 11 13:57:31 2020  
+  [https://ai.facebook.com/blog/using-ai-to-detect-covid-19-misinformation-and-exploitative-content/?sf236351799=1&fbclid=IwAR3izkB_s3gsE6i8EFoT8AjIiSZSpo_GxjMOzZ5_sCN787e1-LQZDCnjfuw](https://ai.facebook.com/blog/using-ai-to-detect-covid-19-misinformation-and-exploitative-content/?sf236351799=1&fbclid=IwAR3izkB_s3gsE6i8EFoT8AjIiSZSpo_GxjMOzZ5_sCN787e1-LQZDCnjfuw)  
+  
+
+  
 Fri Jul 24 09:39:50 2020  
   [https://www.facebook.com/careers/life/behind-the-scenes-with-an-engineering-manager](https://www.facebook.com/careers/life/behind-the-scenes-with-an-engineering-manager)  
   
