@@ -1,3 +1,8 @@
+Tue Aug 18 18:04:18 2020  
+  [https://www.everywoman.com/my-development/learning-areas/articles/7-tried-and-tested-ways-build-stronger-happier-more-vibrant](https://www.everywoman.com/my-development/learning-areas/articles/7-tried-and-tested-ways-build-stronger-happier-more-vibrant)  
+  
+
+  
 Tue Aug 18 17:24:57 2020  
   [https://reactjs.org/blog/2020/08/10/react-v17-rc.html](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)  
   
