@@ -1,3 +1,8 @@
+Thu Aug 27 16:52:50 2020  
+  [http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf)  
+  
+
+  
 Fri Aug 21 07:02:49 2020  
   [https://engineering.fb.com/web/facebook-com-accessibility](https://engineering.fb.com/web/facebook-com-accessibility)  
   
