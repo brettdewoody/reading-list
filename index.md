@@ -1,3 +1,8 @@
+Wed Sep 16 08:34:24 2020  
+  [https://hbr.org/2019/03/4-reasons-talented-employees-dont-reach-their-potential](https://hbr.org/2019/03/4-reasons-talented-employees-dont-reach-their-potential)  
+  
+
+  
 Thu Aug 27 16:52:50 2020  
   [http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf)  
   
