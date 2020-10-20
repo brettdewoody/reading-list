@@ -1,3 +1,8 @@
+Tue Oct 20 16:55:31 2020  
+  [https://www.visualcapitalist.com/top-struggles-of-remote-workers](https://www.visualcapitalist.com/top-struggles-of-remote-workers)  
+  
+
+  
 Wed Sep 16 08:34:24 2020  
   [https://hbr.org/2019/03/4-reasons-talented-employees-dont-reach-their-potential](https://hbr.org/2019/03/4-reasons-talented-employees-dont-reach-their-potential)  
   
