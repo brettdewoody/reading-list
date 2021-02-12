@@ -1,3 +1,8 @@
+Fri Feb 12 13:42:31 2021  
+  [https://stackoverflow.blog/2021/02/11/why-are-video-calls-so-tiring-you-might-be-misreading-cultural-styles](https://stackoverflow.blog/2021/02/11/why-are-video-calls-so-tiring-you-might-be-misreading-cultural-styles)  
+  
+
+  
 Tue Oct 20 16:55:31 2020  
   [https://www.visualcapitalist.com/top-struggles-of-remote-workers](https://www.visualcapitalist.com/top-struggles-of-remote-workers)  
   
@@ -495,11 +500,5 @@ Wed May 1 09:41:51 2019
 Mon Apr 29 23:26:47 2019  
   [https://itnext.io/creating-linked-lists-in-javascript-2980b0559324](https://itnext.io/creating-linked-lists-in-javascript-2980b0559324)  
   
-
-  
-Sun Apr 28 19:13:37 2019  
-  [https://svelte.dev/blog/svelte-3-rethinking-reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)  
-  Really liked this one
-
 
   
