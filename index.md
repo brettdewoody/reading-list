@@ -1,3 +1,8 @@
+Tue Feb 16 10:02:38 2021  
+  [https://www.freshworks.com/crm/gdpr/](https://www.freshworks.com/crm/gdpr/)  
+  
+
+  
 Fri Feb 12 13:42:31 2021  
   [https://stackoverflow.blog/2021/02/11/why-are-video-calls-so-tiring-you-might-be-misreading-cultural-styles](https://stackoverflow.blog/2021/02/11/why-are-video-calls-so-tiring-you-might-be-misreading-cultural-styles)  
   
@@ -494,11 +499,6 @@ Wed May 1 16:46:06 2019
   
 Wed May 1 09:41:51 2019  
   [https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)  
-  
-
-  
-Mon Apr 29 23:26:47 2019  
-  [https://itnext.io/creating-linked-lists-in-javascript-2980b0559324](https://itnext.io/creating-linked-lists-in-javascript-2980b0559324)  
   
 
   
