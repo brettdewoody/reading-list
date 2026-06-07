@@ -72,12 +72,15 @@ function isAmazonUrl(url) {
   return /amazon\.|amzn\./i.test(url);
 }
 
-// A title that is just the domain name is considered stale (fetch failed last time)
+// A title that looks like a domain/storefront name is considered stale
 function isStalTitle(title, url) {
   if (!title) return false;
   const domain = getDomain(url);
-  return title.toLowerCase() === domain.toLowerCase() ||
-    title.toLowerCase() === `www.${domain.toLowerCase()}`;
+  if (title.toLowerCase() === domain.toLowerCase()) return true;
+  // Amazon short links (amzn.eu, amzn.to) redirect to a different amazon.* domain
+  if (isAmazonUrl(url) && /^amazon\./i.test(getDomain(title.includes('://') ? title : `https://${title}`))) return true;
+  if (isAmazonUrl(url) && /^Amazon\.(com|co\.uk|de|fr|ca|au|in|jp)$/i.test(title.trim())) return true;
+  return false;
 }
 
 async function fetchTitle(url) {
