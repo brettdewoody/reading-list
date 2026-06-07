@@ -1,3 +1,7 @@
+Sun Jun 7 16:31:06 2026  
+[https://amzn.eu/d/07mFT9a9](https://amzn.eu/d/07mFT9a9)  
+
+
 Sun Jun 7 14:33:56 2026  
 [https://www.anthropic.com/institute/recursive-self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)  
 
