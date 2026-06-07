@@ -135,7 +135,7 @@ const results = [];
 
 for (const entry of entries) {
   const cached = existingByUrl.get(entry.url);
-  const needsRefetch = !cached || isStalTitle(cached.title, entry.url);
+  const needsRefetch = !cached || cached.title === null || isStalTitle(cached.title, entry.url);
 
   if (cached && !needsRefetch) {
     const updated = { ...cached, note: entry.note };
