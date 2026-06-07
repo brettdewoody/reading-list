@@ -1,3 +1,7 @@
+Sun Jun 7 14:33:56 2026  
+[https://www.anthropic.com/institute/recursive-self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)  
+
+
 Sun Jun 7 12:19:34 2026  
 [https://fortune.com/2026/06/05/ai-productivity-paradox-bad-leadership-tokenmaxxing-big-tech-boston-consulting-group/](https://fortune.com/2026/06/05/ai-productivity-paradox-bad-leadership-tokenmaxxing-big-tech-boston-consulting-group/)  
 
