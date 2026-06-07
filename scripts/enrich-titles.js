@@ -48,6 +48,38 @@ function parseReadingList(content) {
   return entries;
 }
 
+function getDomain(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+}
+
+function extractAmazonTitle(finalUrl) {
+  try {
+    const path = new URL(finalUrl).pathname;
+    // Amazon product URLs: /Product-Name-Words/dp/ASIN or /dp/ASIN
+    const match = path.match(/^\/([^/]+)\/dp\//);
+    if (match && match[1] !== 'dp') {
+      return match[1].replace(/-/g, ' ');
+    }
+  } catch {}
+  return null;
+}
+
+function isAmazonUrl(url) {
+  return /amazon\.|amzn\./i.test(url);
+}
+
+// A title that is just the domain name is considered stale (fetch failed last time)
+function isStalTitle(title, url) {
+  if (!title) return false;
+  const domain = getDomain(url);
+  return title.toLowerCase() === domain.toLowerCase() ||
+    title.toLowerCase() === `www.${domain.toLowerCase()}`;
+}
+
 async function fetchTitle(url) {
   try {
     const controller = new AbortController();
@@ -59,17 +91,30 @@ async function fetchTitle(url) {
     });
     clearTimeout(id);
     if (!res.ok) return null;
+
+    // For Amazon URLs, try to extract title from the final (redirected) URL path
+    if (isAmazonUrl(res.url)) {
+      const amazonTitle = extractAmazonTitle(res.url);
+      if (amazonTitle) return amazonTitle;
+    }
+
     const html = await res.text();
+
+    // Try OG title first — usually cleaner than <title>
+    const ogMatch = html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']{1,200})["']/i)
+      ?? html.match(/<meta[^>]+content=["']([^"']{1,200})["'][^>]+property=["']og:title["']/i);
+    if (ogMatch) {
+      return ogMatch[1].trim()
+        .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/\s+/g, ' ');
+    }
+
     const match = html.match(/<title[^>]*>([^<]{1,200})<\/title>/i);
     if (!match) return null;
     return match[1]
       .trim()
-      .replace(/&amp;/g, '&')
-      .replace(/&lt;/g, '<')
-      .replace(/&gt;/g, '>')
-      .replace(/&quot;/g, '"')
-      .replace(/&#39;/g, "'")
-      .replace(/\s+/g, ' ');
+      .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/\s+/g, ' ');
   } catch {
     return null;
   }
@@ -87,12 +132,18 @@ const results = [];
 
 for (const entry of entries) {
   const cached = existingByUrl.get(entry.url);
-  if (cached) {
+  const needsRefetch = !cached || isStalTitle(cached.title, entry.url);
+
+  if (cached && !needsRefetch) {
     const updated = { ...cached, note: entry.note };
     results.push(updated);
     if (cached.note !== entry.note) changed = true;
   } else {
-    console.log(`Fetching: ${entry.url}`);
+    if (needsRefetch && cached) {
+      console.log(`Re-fetching (stale title "${cached.title}"): ${entry.url}`);
+    } else {
+      console.log(`Fetching: ${entry.url}`);
+    }
     const title = await fetchTitle(entry.url);
     console.log(`  title: ${title ?? '(none)'}`);
     results.push({ ...entry, title: title ?? null });
